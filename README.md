@@ -1,2 +1,2 @@
-# GitDocumentaci-n
+# GitDocumentación
 Curso de práctica y documentación de GIt
